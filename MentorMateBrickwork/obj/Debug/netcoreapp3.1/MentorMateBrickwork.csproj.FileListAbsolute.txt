@@ -1,0 +1,13 @@
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.exe
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.deps.json
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.runtimeconfig.json
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.runtimeconfig.dev.json
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.dll
+D:\git\MentorMateBrickwork\MentorMateBrickwork\bin\Debug\netcoreapp3.1\MentorMateBrickwork.pdb
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.csprojAssemblyReference.cache
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.AssemblyInfoInputs.cache
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.AssemblyInfo.cs
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.csproj.CoreCompileInputs.cache
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.dll
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.pdb
+D:\git\MentorMateBrickwork\MentorMateBrickwork\obj\Debug\netcoreapp3.1\MentorMateBrickwork.genruntimeconfig.cache
